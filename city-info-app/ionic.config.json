@@ -1,0 +1,7 @@
+{
+  "name": "city-info-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
